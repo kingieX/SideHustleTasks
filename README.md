@@ -22,7 +22,7 @@ we are required to create a simple form with the following features :
 
 3. I also added a customized ohone input that select country's code gotten from cloudflare [stylesheet](https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css) and [script](https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js)
 
-## You can fork my repo and add more features or send me a message to be added as a contributor [Twitter](https://twitter.com/KingsleyChimaN1)
+## You can fork my repo and add more features or send me a message on [Twitter](https://twitter.com/KingsleyChimaN1) to be added as a contributor 
 
 Thank you!!
 
