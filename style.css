@@ -1,0 +1,72 @@
+body {
+    background-image: url("https://source.unsplash.com/1600x900/?background");
+    height: 100vh;
+    font-size: 120%;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.form-container {
+    background: #000000d0;
+    color: #fff;
+    padding: 2em;
+    border-radius: 1.875em;
+    width: 100%;
+    max-width: 420px;
+    margin-top:  10em;
+    margin-bottom: 10em;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    border: 1em;
+    margin: 0.3em;
+    padding: 0.5em;
+    border-radius: 0.3em;
+    background: #7c7c7c2b;
+    color: #fff;
+    font-size: 15px;
+    font-family: inherit;
+}
+
+.button {
+    margin: auto;
+    margin-top: 0.5em;
+    padding: 0.5em;
+    width: 120px;
+    border: none;
+    border-radius: 0.54em;
+    outline: none;
+    background: #7c7c7c2b;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    display: grid;
+}
+
+.button:hover {
+    background: #7c7c7c6b;
+}
+
+/* success-message */
+#success-message {
+    display: none;
+}
+
+.success {
+    color: green;
+    font-size: 10px;
+    text-align: center;
+}
